@@ -15,7 +15,7 @@ thop == 0.0.31.post2004272040
 # test_acc_err.py: 10,11
 # test_fps.py: 11
 # utils/util.py: 13
-torch == 1.5.0
+torch == 2.2.0
 
 # test_acc_err.py: 12,13,14
 # test_fps.py: 10
